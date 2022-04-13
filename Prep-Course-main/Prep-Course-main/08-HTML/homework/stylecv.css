@@ -1,0 +1,56 @@
+	
+		h1{
+			font-size: 50px;
+			font-family: Arial;
+			text-align: center;
+
+		}
+
+.imagenes {
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	
+}
+
+h2{
+font-size: 40px;
+text-align: center;
+color: royalblue;
+font-family: Arial;
+
+
+}
+
+
+.parrafos
+{
+
+font-size: 15px;
+height: 100px;
+align-items: center;
+text-align:justify;
+display: flex;
+align-content: center;
+font-family: Arial;
+}
+
+
+.informacion{
+
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+font-family: Arial;
+font-size: 15px;
+text-align: justify;
+
+
+
+}
+
+
+
+}
+
