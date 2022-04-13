@@ -1,0 +1,41 @@
+<style>
+	h1 {
+	 color: midnightblue;
+	}
+	img{
+		width: 400px;
+	}
+
+	#thirDiv {
+		height: 950px; width:500px ;
+	}
+
+	#thirDiv {
+		background: indianred;
+	    padding: 50px;
+	    border: 4px inset red;
+
+	}
+
+	#spanID {
+
+		font-size: 18px;
+		margin: 50px;
+	}
+
+	body {
+background-image: url(https://t4.ftcdn.net/jpg/01/32/02/45/360_F_132024502_gP7ZgqWSJn6sPcF5iDGzEDzzKVKEZ9M6.jpg);
+background-size: auto;
+background-repeat: repeat;
+display: flex;
+justify-content: center;
+	}
+
+	div {
+
+	 text-align: center;
+
+
+
+	}
+</style>
